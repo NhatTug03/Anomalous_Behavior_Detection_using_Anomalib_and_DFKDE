@@ -1,0 +1,7 @@
+backbone: resnet18
+layers:
+- layer4
+pre_trained: true
+n_pca_components: 16
+feature_scaling_method: SCALE
+max_training_points: 40000

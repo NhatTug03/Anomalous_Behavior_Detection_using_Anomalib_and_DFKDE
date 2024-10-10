@@ -1,0 +1,7 @@
+{
+    "task": "classification",
+    "image_threshold": 0.4146018624305725,
+    "pixel_threshold": 0.4146018624305725,
+    "pred_scores.min": 0.3758825659751892,
+    "pred_scores.max": 0.7557888627052307
+}
